@@ -12,21 +12,14 @@ I am a detail-oriented **Bachelor of Computer Applications (BCA)** graduate pass
 
 ### 🚀 Featured Project
 
-#### 💻 [Autocare Hub]([Insert link to your repository here])
+#### 💻 [Autocare Hub]()
 A robust web-based vehicle service management platform engineered to automate scheduling and data tracking.
 - Optimized performance by designing clean relational schemas in SQL database backends.
 - Built responsive, secure user interfaces for real-time information retrieval.
 
 ---
 
-### 📊 GitHub Stats
-
-![Vishwas's GitHub stats](https://vercel.app)
-![Top Langs](https://vercel.app)
-
----
-
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [Your LinkedIn URL]
+- 💼 **LinkedIn:** linkedin.com/in/vishwas-kharvi-0b46b1446
 - 📧 **Email:** vishwaskharvi11@gmail.com
