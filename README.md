@@ -21,5 +21,5 @@ A robust web-based vehicle service management platform engineered to automate sc
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn:** [linkedin.com/in/vishwas-kharvi-0b46b1446]
+- 💼 **LinkedIn:** (linkedin.com/in/vishwas-kharvi-0b46b1446)
 - 📧 **Email:** vishwaskharvi11@gmail.com
