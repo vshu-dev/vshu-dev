@@ -12,7 +12,7 @@ I am a detail-oriented **Bachelor of Computer Applications (BCA)** graduate pass
 
 ### 🚀 Featured Project
 
-#### 💻 [Autocare Hub]()
+#### 💻 [Autocare Hub](https://github.com/vshu-dev/autocare_hub)
 A robust web-based vehicle service management platform engineered to automate scheduling and data tracking.
 - Optimized performance by designing clean relational schemas in SQL database backends.
 - Built responsive, secure user interfaces for real-time information retrieval.
